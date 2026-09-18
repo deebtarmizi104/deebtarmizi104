@@ -30,7 +30,7 @@ I'm a data professional with experience across **data analytics, data engineerin
 - Supported data migration validation and cross-system reconciliation
 
 ### 💻 Data / Analytics — K Navitas
-**Prior Experience | Malaysia**
+**2022 - 2025 | Kuala Lumpur, Malaysia**
 
 - Worked on data projects within the banking industry
 - Experience supporting **Alliance Bank, Bank Islam and MBSB Bank**
