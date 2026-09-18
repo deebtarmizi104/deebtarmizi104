@@ -40,9 +40,9 @@ I'm a data professional with experience across **data analytics, data engineerin
 
 ## 💻 Freelance Web Development
 
-I also take on freelance web development projects, building modern and responsive websites based on client requirements.
+I take on freelance web development projects, building modern, responsive websites based on client requirements.
 
-### 🛠️ What I Work With
+### 🛠️ What I Currently Work With
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -50,29 +50,17 @@ I also take on freelance web development projects, building modern and responsiv
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
-- 🌐 Responsive website design & development
-- 📱 Mobile-friendly interfaces
-- 🚀 Website deployment & hosting
-- 🔗 Domain & DNS configuration
-- 💬 WhatsApp and contact integrations
-- 🤝 Client-based custom development
-
----
-
-## 🌐 Freelance Projects
-
 ### ✈️ Travel & Tourism Website
+
 Designed and developed a responsive corporate website for a Malaysian travel and tourism company.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
-- Designed the website based on client requirements and reference designs
-- Developed responsive desktop and mobile layouts
-- Implemented service showcases, galleries, testimonials and WhatsApp integration
-- Managed domain setup, deployment and hosting
-- Worked directly with the client from requirements gathering to launch
+- 🎨 Designed the website based on client requirements and reference designs
+- 📱 Developed responsive desktop and mobile layouts
+- 🖼️ Implemented service showcases, galleries and testimonials
+- 💬 Integrated WhatsApp and contact features
+- 🔗 Managed domain and DNS configuration
+- 🚀 Handled deployment and hosting
+- 🤝 Worked directly with the client from requirements gathering to launch
 
 ---
 
