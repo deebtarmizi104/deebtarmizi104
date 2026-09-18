@@ -38,6 +38,27 @@ I'm a data professional with experience across **data analytics, data engineerin
 
 ---
 
+## 💻 Freelance Web Development
+
+I also take on freelance web development projects, building modern and responsive websites based on client requirements.
+
+### 🛠️ What I Work With
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+- 🌐 Responsive website design & development
+- 📱 Mobile-friendly interfaces
+- 🚀 Website deployment & hosting
+- 🔗 Domain & DNS configuration
+- 💬 WhatsApp and contact integrations
+- 🤝 Client-based custom development
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
