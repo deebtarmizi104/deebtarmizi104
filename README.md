@@ -8,13 +8,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a data professional with experience across **data analytics, data engineering, and machine learning**, working with large-scale datasets to transform raw data into meaningful insights.
+I'm a data professional with experience across **data analytics, data engineering, and machine learning**, with a strong interest in building practical, data-driven solutions.
 
-🔭 Currently exploring **Data Engineering, AI & Machine Learning**  
+🔭 Working across **Data Engineering, Analytics & Machine Learning**  
 🎓 Master of Data Science from **Universiti Malaya**  
 ☁️ **CompTIA Cloud+ Certified**  
-⚡ Experienced with **Databricks, Apache Spark, SQL & Python**  
-📊 Interested in building scalable data solutions and data-driven applications
+⚡ Hands-on experience with **Databricks, Apache Spark, SQL & Python**  
+🌐 Also building **responsive web solutions through freelance projects**
 
 ---
 
