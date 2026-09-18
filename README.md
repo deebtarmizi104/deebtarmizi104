@@ -59,6 +59,23 @@ I also take on freelance web development projects, building modern and responsiv
 
 ---
 
+## 🌐 Freelance Projects
+
+### ✈️ Travel & Tourism Website
+Designed and developed a responsive corporate website for a Malaysian travel and tourism company.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+- Designed the website based on client requirements and reference designs
+- Developed responsive desktop and mobile layouts
+- Implemented service showcases, galleries, testimonials and WhatsApp integration
+- Managed domain setup, deployment and hosting
+- Worked directly with the client from requirements gathering to launch
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
